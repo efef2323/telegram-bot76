@@ -1,5 +1,2 @@
-chromium-chromedriver
 chromium-browser
-tesseract-ocr
-tesseract-ocr-rus
-libtesseract-dev
+chromium-chromedriver
