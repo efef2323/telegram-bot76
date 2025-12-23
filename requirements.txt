@@ -1,5 +1,5 @@
 python-telegram-bot==20.7
 selenium==4.16.0
 requests==2.31.0
-Pillow==10.1.0
+Pillow==9.5.0
 numpy==1.24.3
